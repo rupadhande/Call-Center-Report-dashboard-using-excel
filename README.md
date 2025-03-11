@@ -23,7 +23,7 @@ This project is a **Call Centre Report Dashboard** created in **Microsoft Excel*
    - Interactive slicers for filtering data dynamically.  
 
 ## 📁 Files Included  
-- `Call_Centre_Report_2025.xlsx`: The main Excel file with all dashboards and data analysis.  
+- `Call centre report.xlsx`: The main Excel file with all dashboards and data analysis.  
 - `README.md`: Documentation for this project.  
 
 ## 🛠 Tools Used  
@@ -35,7 +35,7 @@ This project is a **Call Centre Report Dashboard** created in **Microsoft Excel*
 
 ## 🚀 How to Use  
 1. Download or clone this repository.  
-2. Open the `Call_Centre_Report_2025.xlsx` file in **Microsoft Excel** (Excel 2016 or later recommended).  
+2. Open the `Call centre report.xlsx` file in **Microsoft Excel** (Excel 2016 or later recommended).  
 3. Interact with the dashboard by using slicers and filters to explore different insights.  
 
 ## 🏆 Key Insights  
