@@ -31,7 +31,7 @@ This project is a **Call Centre Report Dashboard** created in **Microsoft Excel*
 - **Power Query** (for data transformation and analysis)  
 
 ## 📸 Screenshot  
-![Dashboard Preview](screenshot.png)  
+![Dashboard Preview]()  
 
 ## 🚀 How to Use  
 1. Download or clone this repository.  
